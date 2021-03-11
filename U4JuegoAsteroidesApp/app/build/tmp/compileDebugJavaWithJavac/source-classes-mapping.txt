@@ -1,0 +1,14 @@
+mx/edu/itl/c17130772/u4juegoasteroidesapp/VistaJuegoView.java
+ mx.edu.itl.c17130772.u4juegoasteroidesapp.VistaJuegoView
+mx/edu/itl/c17130772/u4juegoasteroidesapp/AcercaDeActivity.java
+ mx.edu.itl.c17130772.u4juegoasteroidesapp.AcercaDeActivity
+mx/edu/itl/c17130772/u4juegoasteroidesapp/BuildConfig.java
+ mx.edu.itl.c17130772.u4juegoasteroidesapp.BuildConfig
+mx/edu/itl/c17130772/u4juegoasteroidesapp/VistaJuegoThread.java
+ mx.edu.itl.c17130772.u4juegoasteroidesapp.VistaJuegoThread
+mx/edu/itl/c17130772/u4juegoasteroidesapp/MainActivity.java
+ mx.edu.itl.c17130772.u4juegoasteroidesapp.MainActivity
+mx/edu/itl/c17130772/u4juegoasteroidesapp/Grafico.java
+ mx.edu.itl.c17130772.u4juegoasteroidesapp.Grafico
+mx/edu/itl/c17130772/u4juegoasteroidesapp/JuegoActivity.java
+ mx.edu.itl.c17130772.u4juegoasteroidesapp.JuegoActivity
